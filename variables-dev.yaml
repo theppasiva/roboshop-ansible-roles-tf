@@ -9,4 +9,4 @@ SHIPPING_HOST: shipping.app-dev.shivarampractise.online
 PAYMENT_HOST: payment.app-dev.shivarampractise.online
 DISPATCH_HOST: dispatch.app-dev.shivarampractise.online
 NEXUS_URL: http://172.31.23.68:8081/repository
-GROUP_ID: "com/roboshop"
+group_id: "com/roboshop"
